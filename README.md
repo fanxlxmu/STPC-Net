@@ -5,7 +5,7 @@
 </p>
 
 This is the implementation of STPC-Net in the following paper: \
-Chuanpan Zheng, Cheng Wang, Xiaoliang Fan, Jianzhong Qi, and Xu Yan. "[STPC-Net: Learn Massive Geo-sensory Data as Spatio-Temporal Point Clouds](https://ieeexplore.ieee.org/abstract/document/9511834/)", published in *IEEE Transactions on Intelligent Transportation Systems* *(T-ITS)*.
+Chuanpan Zheng, Cheng Wang, Xiaoliang Fan, Jianzhong Qi, and Xu Yan. "[STPC-Net: Learn Massive Geo-sensory Data as Spatio-Temporal Point Clouds](https://ieeexplore.ieee.org/abstract/document/9511834/)", published in *IEEE Transactions on Intelligent Transportation Systems* *(T-ITS)*, 2022, 23(8): 11314-11324.
 
 ## Data
 
